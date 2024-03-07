@@ -1,0 +1,324 @@
+Adrenaline: Usually derived from cows or pigs adrenal glands.
+Alanine: Amino acid often sourced from meats and dairy.
+Albumen: Egg white (from chicken eggs).
+Albumin: Protein found in egg whites and blood serum.
+Alcloxa: Derived from animals (specific source not always disclosed).
+Aldioxa: Derived from animals (specific source not always disclosed).
+Aliphatic Alcohol: May be derived from animal sources (e.g., beef fat).
+Allallanton: Often sourced from animal urine.
+Alligator Skin: Animal-derived material (from alligators).
+Alpha-Hydroxy Acids: Can be animal-derived (e.g., from milk or fruits).
+Ambergris: A secretion from the digestive system of whales.
+Amino Acids: Can be sourced from animal products (various animal tissues).
+Aminosuccinate Acid: May be derived from animals (specific source not always disclosed).
+Amniotic fluid: Derived from animals (typically mammals).
+Angora: Hair from angora rabbits.
+Animal Fat: Derived from animals
+Animal Oil: Derived from animals
+Animal Hair: Directly sourced from animals (various animals such as rabbits, goats, or horses).
+Arachidonic acid: Found in animal products (e.g., meat, eggs).
+Arachidyl Proprionate: Derived from animals (specific source not always disclosed).
+Aspic: Often made from animal bones or meat stock (various animals).
+Astrakhan: Fur from young lambs (specifically from karakul sheep).
+Bee pollen: Produced by bees.
+Bee Products: Produced by bees (including honey, beeswax, propolis).
+Beeswax: Produced by bees (specifically beeswax from honeycombs).
+Biotin: Often sourced from animal products (e.g., liver).
+Vitamin H: Often sourced from animal products (e.g., liver).
+Vitamin B Factor: Often sourced from animal products (e.g., liver).
+Biotin: Often sourced from animal products (e.g., liver)
+Blood: Animal-derived (usually from cattle or pigs).
+Boar Bristles: Derived from boars (hairs from male pigs).
+Bone: Made from animal bones (various animal sources).
+Bonemeal: Made from animal bones (various animal sources).
+Bone Char: Charred animal bones (various animal sources).
+Bone phosphate: Derived from animal bones (various animal sources).
+Bonito: Fish species (a type of tuna).
+Brawn: Made from animals (various animal meats).
+Bristle: Derived from animals (e.g., boar bristles).
+Calciferol: Animal-derived form of vitamin D (from fish liver oil or lanolin).
+Calfskin: Leather from young cows (calves).
+Capiz: Made from mollusk shells (specifically windowpane oysters).
+Caprylic Acid: Often derived from animal sources (e.g., coconut or palm oil).
+Caprylic Triglyceride: Can be animal-derived (from caprylic acid).
+Caprylamine Oxide: May be derived from animals (specific source not always disclosed).
+Capryl Betaine: May contain animal ingredients (from coconut oil or animal fats).
+Carbamide: Can be derived from animals (urea found in urine or tissues).
+Carmine: Derived from insects (cochineal beetles).
+Cochineal: Derived from insects (cochineal beetles).
+Carminic Acid: Derived from insects (cochineal beetles).
+Carotene: Can be animal-derived (from various animal tissues).
+Provitamin A: Can be animal-derived (from various animal tissues).
+Provitamin D2: Can come from fish liver oil, milk, egg yolks
+Provitamin D3: Can come from fish liver oil, milk, egg yolks
+Beta Carotene: Can be animal-derived (from various animal tissues).
+Casein: Milk protein (from cow's milk).
+Caseinate: Milk protein (from cow's milk).
+Sodium Caseinate: Milk protein (from cow's milk).
+Caseinate: Milk protein (from cow's milk).
+Castor : Derived from beavers' castor sacs.
+Castoreum: Derived from beavers' castor sacs.
+Castoreum: Secretion from beavers' castor sacs.
+Catgut: Made from animal intestines (usually sheep or cattle).
+Cera Flava: Beeswax (produced by honeybees).
+Cerebrosides: Animal-derived lipids (e.g., from the nervous system tissues of animals).
+Cetyl Alcohol: Derived from animals (e.g., from whale or dolphin oil).
+Cetyl Palmitate: Animal-derived compound (from palmitic acid and cetyl alcohol).
+Chitosan: Derived from crustacean shells (e.g., crabs, shrimp).
+Cholesterin: Animal-derived cholesterol (from animal tissues).
+Cholesterol: Animal-derived (from various animal tissues).
+Choline Bitartrate: Can be sourced from animal products (e.g., liver).
+Chymotrypsin: Enzyme found in animals (e.g., pancreas of cattle or pigs).
+Civet: Scent gland secretion of civet cats.
+Cochineal: Derived from insects (cochineal beetles).
+Cod liver oil: Derived from codfish (Gadus morhua).
+Collagen: Protein found in animal connective tissue (from various animal sources).
+Collagen hydroLysate: Hydrolyzed animal collagen (from various animal sources).
+Colors Dyes: Some may be animal-derived (e.g., carmine, derived from insects).
+Confectioner's Glaze: Derived from insects or shellac (specifically resin secreted by lac bugs).
+Coral: Marine invertebrate secretion (from various coral species).
+Cortisone: Animal-derived hormone (from adrenal glands of animals).
+Corticosteroid: Animal-derived hormone (from adrenal glands of animals).
+Cysteine, L-Form: Can be sourced from animal hair or feathers.
+Cystine: Animal-derived amino acid (from various animal tissues).
+Dexpanthenol: Animal-derived form of vitamin B5 (from animals or synthesized).
+Diglycerides: Often sourced from animal fats (from various animal sources).
+Dimethyl Stearamine: Can be animal-derived (from stearyl alcohol and dimethylamine).
+Down: Feathers from birds (usually geese or ducks).
+Duodenum: Animal-derived (from the duodenum of animals).
+Dyes: Some may be derived from animals (e.g., carmine from cochineal beetles).
+E120: Cochineal or carmine color (from cochineal beetles).
+E441: Gelatin (protein obtained from animal bones and skin).
+E542: Bone phosphate (from various animal bones).
+E904: Shellac (resin secreted by lac bugs).
+E913: Lanolin (wool grease obtained from sheep).
+Egg: Animal product (usually from chicken eggs).
+Egg Protein: Derived from eggs (usually from chicken eggs).
+Elastin: Protein found in animal connective tissue (e.g., skin, arteries).
+Emu oil: Oil from emu fat (from emus, flightless birds).
+Ergocalciferol: Derived from fungi or animal sources (vitamin D2).
+Ergosterol: Animal-derived (from fungi or yeast, precursor to vitamin D2).
+Estrogen: Hormones found in animals (e.g., from human or animal sources).
+Estradiol: Hormones found in animals (e.g., from human or animal sources).
+Fat: Animal-derived (from various animal sources).
+Caprylic: Can be sourced from animal fats
+Lauric: Can be sourced from animal fats
+Myristic: Can be sourced from animal fats
+Oleic: Can be sourced from animal fats
+Palmitic: Can be sourced from animal fats
+Stearic: Can be sourced from animal fats
+Fatty Acids: Can be sourced from animal fats (from various animal sources).
+FD&C Colors: Some may be derived from animals (e.g., carmine).
+Feathers: Animal-derived (usually from birds such as geese or ducks).
+Fish Liver Oil: Derived from fish livers (e.g., cod liver oil).
+Fish Oil: Oil extracted from fish (e.g., cod liver oil).
+Fish Scales: Derived from fish (specifically scales).
+Fish Sperm Oil: Oil extracted from fish sperm (e.g., from codfish).
+Fur: Animal-derived (from various animal species).
+Gel: Derived from animals (e.g., bone gelatin).
+Gelatin: Protein obtained from animal bones and skin (usually from pigs or cows).
+Ghee: Clarified butter (usually from cow's milk).
+Globulin: Protein found in animal blood plasma and seeds.
+Glucosamine: Often sourced from shellfish shells (e.g., crabs, shrimp).
+Glycerides: Often derived from animal fats (from various animal sources).
+Glycerin (Glycerol): Can be animal-derived (from various animal fats).
+Glycerol: Can be animal-derived (from various animal fats).
+Glyceride: Often derived from animal fats (from various animal sources).
+Glycerin: Can be animal-derived (from various animal fats).
+Glyceryls: Often derived from animal fats (from various animal sources).
+Glycogen: Animal-derived carbohydrate (from animal tissues, especially liver and muscles).
+Glycolic Acid: Can be animal-derived (e.g., from animal connective tissues).
+Glycreth-26: May be derived from animals (specific source not always disclosed).
+Guanine: Animal-derived (from fish scales, often used in cosmetics).
+Hide Glue: Adhesive derived from animal collagen (e.g., cow or rabbit skins).
+Honey: Produced by bees (from the nectar of flowers).
+Honeycomb: Produced by bees (from beeswax honeycombs).
+Horsehair: Animal-derived (from horses).
+Hyaluronic Acid: Often derived from animal sources (e.g., from rooster combs or bovine cartilage).
+Hydrocortisone: Often derived from animals (from adrenal glands of animals).
+Hydrolyzed Animal Protein: Protein derived from animals (various animal sources).
+Imidazolidinyl Urea: Can be derived from animal sources (e.g., from urea in urine or tissues).
+Insulin: Hormone found in animals (e.g., from pigs or cows).
+Isinglass: Gelatin-like substance from fish bladders (used in fining beer and wine).
+Isopropyl Lanolate: May contain lanolin, derived from wool-bearing animals.
+Isopropyl Myristate: Can be derived from animal fats (e.g., from tallow or coconut oil).
+Isopropyl Palmitate: Often derived from animal fats (e.g., from tallow or palm oil).
+Keratin: Protein found in animal hair and hooves (e.g., from cattle, pigs, or birds).
+Keratin Amino Acids: Often derived from animal sources (e.g., from hair or feathers).
+Keratin: Animal-derived protein (from hair, feathers, horns, etc.).
+Keratin Hydrolysate: Hydrolyzed animal keratin (from various animal sources).
+Lactic Acid: Can be animal-derived (e.g., from milk or produced by bacteria in the GI tract).
+Lactose: Sugar found in milk (from cow's milk).
+Lactoglobulin: Protein found in whey (from cow's milk).
+Lactose: Milk sugar (from cow's milk).
+Laneth: May contain lanolin (from wool-bearing animals).
+Lanolin: Wool grease obtained from sheep (from the wool of sheep).
+Lanolin Acid: Fatty acid derived from lanolin (from wool-bearing animals).
+Lanosterols: obtained from sheep
+Lard: Fat from pigs (rendered pork fat).
+Lecithin: Can be sourced from animal products (e.g., egg yolks, nerve tissue, blood).
+Leather: made from cows
+Linoleic Acid: Can be animal-derived (e.g., from adipose tissue of animals).
+Lipase: Enzyme often derived from animals (e.g., pancreatic lipase from pigs).
+Lipids: Animal-derived (from various animal tissues).
+Lipids Fats Oils: Animal-derived (from various animal tissues).
+Lipoids: Animal-derived (from various animal tissues).
+Liquorice: Extract from liquorice root (although the candy can contain gelatin).
+Lysine: Amino acid found in various animal proteins (e.g., meat, dairy, eggs).
+Marine Oil: Derived from marine animals (e.g., fish oil).
+Marrow: Soft tissue found in the center of bones (from various animal bones).
+Methionine: Amino acid often sourced from animal proteins (e.g., meat, fish, dairy).
+Milk Protein: Protein found in milk (from cow's milk).
+Milk Solids: Protein found in milk (from cow's milk).
+Mink Oil: Oil from mink fat (from minks, semi-aquatic mammals).
+Mollusk: Marine invertebrates (e.g., clams, mussels, oysters, snails, squid).
+Monoglycerides: From animal fat
+Musk (Oil): Secretion from musk deer or glands of various animals.
+Musk Ambrette: Derived from musk deer or other animals.
+Musk Oil: Secretion from musk deer or glands of various animals.
+Musk: Scent from musk deer or glands of various animals.
+Myristal Ether Sulfate: May be derived from animal fats (e.g., from myristyl alcohol).
+Myristic Acid: Saturated fatty acid often sourced from animal fats.
+Myristyl Lactate: May be derived from animals (specific source not always disclosed).
+Nucleic Acids: Found in animal tissues (e.g., DNA, RNA).
+Nucleotides: Building blocks of nucleic acids (e.g., DNA, RNA) found in animal tissues.
+Nylon-9: May be derived from animal sources (specific source not always disclosed).
+Ocenol: Animal-derived (from ocelots).
+Octyl Dodecanol: Can be derived from animals (specific source not always disclosed).
+Octyl Palmitate: Often derived from animal fats (e.g., from tallow or palm oil).
+Oleic Acid: Often derived from animal fats (e.g., from beef or pork fat).
+Oleths: May contain animal-derived ingredients (specific source not always disclosed).
+Oleyl Alcohol: Often derived from animals (e.g., from fish, beef, or pork fat).
+Oleyl Arachidate: May be derived from animals (specific source not always disclosed).
+Oleyl Imidazoline: Can be derived from animals (specific source not always disclosed).
+Oleyl Lanolate: May contain lanolin, derived from wool-bearing animals.
+Oleyl Myristate: Can be derived from animal fats (e.g., from tallow or coconut oil).
+Oleyl Oleate: Often derived from animal fats (e.g., from beef or pork fat).
+Oleyl Stearate: May be derived from animal fats (specific source not always disclosed).
+Oleic Acid: Can be animal-derived (e.g., from various animal fats).
+Oleostearin: Animal-derived fat (from various animal tissues).
+Oligopeptides: Animal-derived peptides (from various animal tissues).
+Oyster: Shellfish (from oysters).
+Oyster Shell: Derived from oysters.
+Palmitamide: Animal-derived (from palms).
+Palmitamine: Animal-derived (from palms).
+Palmitate: Often derived from animal fats (e.g., from tallow or palm oil).
+Palmitic Acid: Saturated fatty acid often sourced from animal fats.
+Panthenol: Animal-derived form of vitamin B5 (from animals or synthesized).
+Panthenyl: May contain animal-derived ingredients (specific source not always disclosed).
+Panthenyl Ethyl Ether: Can be derived from animals (specific source not always disclosed).
+Pearl Essence: Obtained from scales of fish
+Pepsin: Enzyme found in animal stomachs (especially pigs).
+Peptones: Often derived from animal proteins (e.g., meat, casein).
+Petrolatum: Petroleum jelly (although some forms may contain animal-derived ingredients).
+Pigskin: Leather made from pigs' skin.
+Placenta: Organ from pregnant mammals (often from cows or sheep).
+Polyglycerol: Often derived from animal fats (from various animal sources).
+Polypeptides: Animal-derived peptides (from various animal tissues).
+Polysorbates: May be derived from animal fats (specific source not always disclosed).
+Polyvinylpyrrolidone: May be derived from animal sources (specific source not always disclosed).
+Potassium Adenosine Triphosphate: May be derived from animals (specific source not always disclosed).
+Prawn: Shellfish (from prawns).
+Procollagen: Protein precursor to collagen (found in animal tissues).
+Progesterone: Hormone found in animals (e.g., from pigs).
+Propolis: Resinous substance produced by bees.
+Propolis: Substance produced by bees (from resinous sap collected by bees).
+Provitamin A: Can be animal-derived (from various animal tissues).
+Prussian Blue: Dye often made from animal products (specific source not always disclosed).
+Purified Lanolin: Wool grease obtained from sheep (from the wool of sheep).
+Quaternium-27: May contain animal-derived ingredients (specific source not always disclosed).
+Rennet: Enzyme found in the stomach lining of mammals (used in cheese-making).
+Rennin: Enzyme found in the stomach lining of mammals (used in cheese-making).
+Resinouse Glaze: Made from certain insects
+Retinol: Animal-derived form of vitamin A (from animal tissues).
+Ribonucleic: Found in animal cells (involved in protein synthesis).
+RNA: Ribonucleic acid found in animal cells (involved in protein synthesis).
+Royal Jelly: Secretion from honeybees (used in bee hives to feed larvae and queen bees).
+Sable Brushes: Made from sable fur (sable marten).
+Sable: Fur from sable martens (mammals).
+Satin: Fabric made from silk (protein fiber produced by silkworms).
+Sericin: Protein derived from silk (produced by silkworms).
+Shellac: Resinous secretion of lac bugs (used in varnishes, sealants, etc.).
+Sheepskin: made from sheep
+Silk: Protein fiber produced by silkworms (used in textiles).
+Silk Amino Acids: Often derived from silkworms (protein from silk fibers).
+Silk Powder: Ground silk fibers (produced by silkworms).
+Skin: Possibly from an animal
+Sodium Adenosine Triphosphate: May be derived from animals (specific source not always disclosed).
+Sodium Caseinate: Milk protein (from cow's milk).
+Sodium Chondroitin Sulfate: May be derived from animals (specific source not always disclosed).
+Sodium DNA: May be derived from animals (specific source not always disclosed).
+Sodium Heparin: May be derived from animals (specific source not always disclosed).
+Sodium Hyaluronate: Often derived from animal sources (e.g., from rooster combs or bovine cartilage).
+Sodium Keratin Amino Acids: Often derived from animal sources (e.g., from hair or feathers).
+Sodium Lactate: Can be animal-derived (from milk or produced by bacteria in the GI tract).
+Sodium Polypeptide: May contain animal-derived ingredients (specific source not always disclosed).
+Sodium RNA: May be derived from animals (specific source not always disclosed).
+Spermaceti: Wax from sperm whales.
+Sperm Oil: Oil from sperm whales.
+Squalane: Often derived from shark liver oil (can also be plant-derived).
+Squid: Marine mollusks (from squids).
+Stearalkonium Chloride: Can be derived from animal fats (e.g., from stearic acid).
+Stearates: Often derived from animal fats (e.g., from tallow or palm oil).
+Stearic Acid: Saturated fatty acid often sourced from animal fats.
+Stearamide: Can be derived from animal fats (e.g., from stearyl alcohol).
+Stearamine: Can be derived from animal fats (e.g., from stearyl alcohol).
+Stearamine Oxide: Can be derived from animal fats (e.g., from stearyl alcohol).
+Stearates: Often derived from animal fats (e.g., from tallow or palm oil).
+Stearic Acid: Saturated fatty acid often sourced from animal fats.
+Stearone: Animal-derived (from stearin, a glyceride of stearic acid).
+Stearoxytrimethylsilane: Can be derived from animal fats (e.g., from stearic acid).
+Stearyl Acetate: Can be derived from animal fats (e.g., from stearyl alcohol).
+Stearyl Alcohol: Often derived from animals (e.g., from coconut or palm oil).
+Stearyl Betaine: Can be derived from animal fats (e.g., from stearic acid).
+Stearyl Caprylate: Can be derived from animal fats (e.g., from stearic acid).
+Stearyl Citrate: Can be derived from animal fats (e.g., from stearic acid).
+Stearyl Glycyrrhetinate: May contain glycyrrhetinic acid derived from animal sources.
+Stearyl Heptanoate: Can be derived from animal fats (e.g., from stearic acid).
+Stearyl Imidazoline: Can be derived from animal fats (e.g., from stearic acid).
+Stearyl Octanoate: Can be derived from animal fats (e.g., from stearic acid).
+Stearyl Stearate: Can be derived from animal fats (e.g., from stearic acid).
+Stearyl Tartrate: Can be derived from animal fats (e.g., from stearic acid).
+Steroid: Often derived from animals (e.g., from adrenal glands of animals).
+Sterol: Often derived from animals (e.g., cholesterol from animal tissues).
+Suet: Hard fat found around the kidneys of animals (especially cows and sheep).
+Suede: derived from animals
+Sulfated Jojoba Oil: May be derived from animal fats (specific source not always disclosed).
+Tallow: Rendered beef or mutton fat.
+Tallowate: Soap made from tallow (rendered beef or mutton fat).
+Taurine: Amino acid found in animal tissues (e.g., from meat, fish, dairy).
+Thiamine Hydrochloride: Often sourced from animal products (e.g., liver).
+Vitamin B1: Often sourced from animal products (e.g., liver).
+Tortoise Oil: Oil from tortoises.
+Tortoiseshell: Animal-derived (from tortoises).
+Turtle Oil: Oil from turtles.
+Turtle Shell: Derived from turtles.
+Tyrosine: Amino acid often sourced from animal proteins (e.g., meat, dairy).
+Urea: Can be derived from animal urine or tissues.
+Uric Acid: Can be derived from animal tissues (e.g., from the liver).
+Valise: Amino acid often sourced from animal proteins (e.g., meat, dairy).
+Vitamin A: Animal-derived (from various animal tissues).
+Vitamin B: Can be sourced from animal products (e.g., liver).
+Vitamin B-Complex: Often sourced from animal products (e.g., liver).
+Vitamin B Factor: Can be sourced from animals (e.g., liver ot yeast).
+Vitamin B12: Animal-derived (from various animal tissues).
+Vitamin D: Animal-derived (from fish liver oil, lanolin, or animal tissues).
+Vitamin D2: derived from animals (from fish liver oil or lanolin)
+Vitamin D3: Animal-derived form of vitamin D
+Vitamin H: Often sourced from animal products (e.g., liver).
+Volaise: Animal-derived material (from wool of Valaise Blacknose sheep)
+Wax: Can be animal-derived (e.g., beeswax).
+Whey: Dairy byproduct (from cow's milk).
+Whey Protein: Protein isolated from whey (from cow's milk).
+Wool: Animal-derived fiber (from sheep).
+Wool Fat: Grease from sheep's wool (lanolin).
+Wool Grease: Grease from sheep's wool (lanolin).
+Wool Wax: Grease from sheep's wool (lanolin).
+Wool Wax Alcohols: Grease from sheep's wool (lanolin).
+Xanthan Gum: Can be produced by bacteria on animal substrates (e.g., lactose).
+Xanthophylls: Often sourced from animal products (e.g., egg yolks).
+Yeast Extract: May contain animal-derived ingredients (e.g., nucleic acids).
+Zinc Adenosine Triphosphate: May be derived from animals (specific source not always disclosed).
+Zinc DNA: May be derived from animals (specific source not always disclosed).
+Zinc Hydrolyzed Animal Protein: May be derived from animals (specific source not always disclosed).
+Zinc Polypeptides: May contain animal-derived ingredients (specific source not always disclosed).

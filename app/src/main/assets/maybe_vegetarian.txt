@@ -1,0 +1,47 @@
+Activated carbon: Typically vegetarian, but may be processed using animal-derived substances in some cases.
+Adipic acid: Generally vegetarian, but may be produced using animal-derived ingredients in some manufacturing processes.
+Cane sugar: Usually considered vegetarian, but some refining processes may use animal bone char for whitening.
+Capric acid: Typically derived from plant sources, but may also be derived from animal fats.
+Clarifier: May be derived from animal products in some cases.
+Clarifying agent: May contain animal-derived substances.
+Colorose: Generally vegetarian, but may be processed using animal-derived ingredients in some cases.
+Fat: Can be derived from plant or animal sources.
+Fatty acid: Can be derived from plant or animal sources.
+Fining agent: May contain animal-derived substances.
+Folacin: Generally vegetarian, but may be derived from animal sources in some cases.
+Folic acid: Generally vegetarian, but may be derived from animal sources in some cases.
+Free-flow agent: Typically vegetarian, but may be processed using animal-derived ingredients in some cases.
+Hexanedioic acid: Generally vegetarian, but may be produced using animal-derived substances in some manufacturing processes.
+Inversol: Generally vegetarian, but may be produced using animal-derived ingredients in some cases.
+Invert sugar: Typically vegetarian, but may be processed using animal-derived substances in some cases.
+Invert sugar syrup: Generally vegetarian, but may be processed using animal-derived ingredients in some cases.
+Modified food starch: Generally vegetarian, but may be processed using animal-derived ingredients in some cases.
+Modified starch: Generally vegetarian, but may be processed using animal-derived ingredients in some cases.
+Natural flavor: Can be derived from plant or animal sources.
+N-decanoic acid: Generally vegetarian, but may be produced using animal-derived substances in some manufacturing processes.
+N-octadecanoic acid: Generally vegetarian, but may be produced using animal-derived substances in some manufacturing processes.
+Olean: Typically derived from plant sources, but may also be derived from animal fats.
+Olestra: Typically derived from plant sources, but may also be derived from animal fats.
+Polyoxyethylene (20) sorbitan monooleate: Generally vegetarian, but may be produced using animal-derived substances in some manufacturing processes.
+Polyoxyethylene (20) sorbitan monostearate: Generally vegetarian, but may be produced using animal-derived substances in some manufacturing processes.
+Polysorbate: Generally vegetarian, but may be produced using animal-derived substances in some manufacturing processes.
+Polysorbate 60: Generally vegetarian, but may be produced using animal-derived substances in some manufacturing processes.
+Polysorbate 80: Generally vegetarian, but may be produced using animal-derived substances in some manufacturing processes.
+Processing aid: May contain animal-derived substances.
+Protein: Can be derived from plant or animal sources.
+Pteroyl glutamic acid: Generally vegetarian, but may be derived from animal sources in some cases.
+Refined sugar: Usually considered vegetarian, but some refining processes may use animal bone char for whitening.
+Rennet: An enzyme typically derived from the stomach lining of animals.
+Rennin: An enzyme typically derived from the stomach lining of animals.
+Retinol: Can be derived from animal or plant sources.
+Stearic acid: Can be derived from plant or animal sources.
+Sucrose: Usually considered vegetarian, but some refining processes may use animal bone char for whitening.
+Sucrose polyester: Typically vegetarian, but may be produced using animal-derived ingredients in some cases.
+Sugar: Usually considered vegetarian, but some refining processes may use animal bone char for whitening.
+Sugar syrup, invert: Typically vegetarian, but may be processed using animal-derived substances in some cases.
+Vitamin A: Can be derived from animal or plant sources.
+Vitamin A acetate: Can be derived from animal or plant sources.
+Vitamin A palmitate: Can be derived from animal or plant sources.
+Vitamin A propionate: Can be derived from animal or plant sources.
+Vitmain B-5: Can come from plant or animals
+Wine: Generally vegetarian, but some processing methods may use animal-derived fining agents.

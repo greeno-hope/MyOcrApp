@@ -1,0 +1,30 @@
+Carmine: Derived from crushed cochineal insects for red coloring.
+Carminic acid: Derived from cochineal insects for red coloring.
+Cochineal: Scale insects used for red dye extraction.
+Dripping: Rendered fat from animal meat.
+Gelatin: Produced from collagen in animal bones, skin, and connective tissue.
+Gelatine: Alternative spelling for gelatin.
+Hi-Vegi-Lip: Contains hydrogenated tallow, derived from animal fat.
+Hydrogenated tallow: Fat derived from animal tissues.
+Isinglass: Gelatin derived from fish bladder membranes.
+Keratin: Protein found in animal hooves, horns, feathers, and hair.
+Lard: Rendered fat from pig.
+Lard oil: Oil derived from pig fat.
+Pancreatic extract: Extracted from the pancreas of animals.
+Pancreatin: Mixture of digestive enzymes from the pancreas of animals.
+Pepsin: Digestive enzyme derived from the stomachs of animals.
+Pork: Meat from pig.
+Pork Gelatine: Gelatin derived from pig.
+Pork fat: Fat from pig.
+Pork oil: Oil from pig fat.
+Suet: Hard fat around the kidneys and loins of animals, especially cows and sheep.
+Tallow: Rendered fat from animals.
+Tallow flakes: Flakes of rendered animal fat.
+Trypsin: Enzyme from the pancreas of animals.
+Cis-9-octadecenoic acid: Fatty acid found in animal fats.
+Lipase: Enzyme produced in the pancreas of animals.
+Myristic acid: Saturated fatty acid found in animal fats.
+N-hexadecanoic acid: Saturated fatty acid found in animal fats.
+N-tetradecanoic acid: Saturated fatty acid found in animal fats.
+Oleic acid: Monounsaturated fatty acid found in animal fats.
+Palmitic acid: Saturated fatty acid found in animal fats.
